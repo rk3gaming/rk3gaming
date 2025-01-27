@@ -8,5 +8,9 @@
 
 - 🎥 Youtube: https://www.youtube.com/@rkfrmda3
 
-- ⭐ Specialties: LUA, HTML, CSS, JS.
+
+**Specialties:**
+- 💻 LUA, JS.
+
+- 🎨 HTML, CSS.
 
