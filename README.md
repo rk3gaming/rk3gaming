@@ -1,18 +1,35 @@
-# **About me**
-👋 Hello, Im RK, a developer dedicated to making free open-source & paid releases for the FiveM community. 
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
 
-**Links:**
-- 🤖 Discord: https://discord.gg/lscdevelopment
+# 🚪 Welcome
 
-- 🛒 Tebex Shop: https://lsc-development.tebex.io
-
-- 📚 Documenation: https://rk0-1.gitbook.io/lsc-development
-
-- 🎥 Youtube: https://www.youtube.com/@rkfrmda3
+Hello! LSC Development is a team of dedicated developers focused on creating scripts for your FiveM servers. Here, you'll find documentation and guides for both our free and paid scripts. These resources will help you install and configure our scripts, along with snippets to improve compatibility with other resources.
 
 
-**Specialties:**
-- 💻 LUA, JS.
 
-- 🎨 HTML, CSS.
+<details>
 
+<summary>Where to find our releases.</summary>
+
+[https://lsc-development.tebex.io](https://lsc-development.tebex.io)
+
+</details>
+
+<details>
+
+<summary>How can I get support?</summary>
+
+To get direct support for one of our scripts join our [discord ](https://discord.gg/GGjEA6GkDY)and create a ticket with your tbx-id.
+
+</details>
