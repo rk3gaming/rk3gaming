@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is rk and I'm a fullstack developer.</h2>
+<h2 align="left">Hi 👋! My name is rk and I'm a developer.</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://r2.fivemanage.com/Dl2ze8Tfti5DROeJXVyQ6/176586906.jpg"  />
+<h2 align="left">💻 Tech Stack:</h2>
 
 ###
 
@@ -35,6 +35,10 @@
 
 ###
 
+<h2 align="left">🚀 Where to reach me!</h2>
+
+###
+
 <div align="left">
   <a href="https://www.youtube.com/@rkfrmda3" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -43,12 +47,6 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/rk3gaming/rk3gaming/output/snake.svg" alt="Snake animation" />
 
 ###
 
