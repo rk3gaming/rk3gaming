@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm a Full-Stack Game Developer with a passion for coding in my free time, currently focused on the FiveM community. I am the founder of LSC Development, an organization that provides both free and paid releases for the FiveM community. Additionally, I'm also a NUI Creator for ESX-ORG, contributing to the development of user interface solutions.</p>
+<p align="left">I'm a Full-Stack Game Developer with a passion for coding in my free time, currently focused on the FiveM community. I am the founder of LSC Development, an organization that provides both free and paid releases for the FiveM community. Additionally, I'm also a NUI Creator for ESX-Framework, contributing to the development of user interface solutions.</p>
 
 ###
 
